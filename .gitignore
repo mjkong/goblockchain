@@ -1,1 +1,5 @@
 .idea/
+blockchain.db
+go.mod
+go.sum
+wallet.dat
